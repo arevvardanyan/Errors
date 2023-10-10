@@ -9,4 +9,4 @@ function reverseString(s) {
     }
   }
 
- console.log(reverseString("Something")) 
+ console.log(reverseString(1234)) 
